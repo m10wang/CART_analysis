@@ -1,1 +1,3 @@
-# CART_analysis
+# CAR T cell therapy multi-center real-world analysis
+
+The code within this repo provides a custom-developed sets of computational algorithms to perform comprehensive characterizations and assessments of the real-world performance of CAR T cell therapy (axi-cel) as described in "Multi-Center Real-World Longer-Term Survival and Comprehensive Safety Outcome Characterizations and Predictions of Axicabtagene Ciloleucel CAR T-Cell Therapy in Patients with Diffuse Large B-Cell Lymphoma". This set of alorithms streamlines the extraction of real-world data in OMOP, characterizations and assessments of safety profile, durability of the response of axi-cel, and the subsequent statistical analyses and predictions using machine learning approaches.
